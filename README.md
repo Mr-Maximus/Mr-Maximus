@@ -50,7 +50,10 @@
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Maximus#0348 </a>
-   - <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/color/33/000000/twitter-circled--v2.png"/ alt="Twitter"></a>
+   - <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/color/33/000000/twitter-circled--v2.png"/></a>
+
+
+
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
