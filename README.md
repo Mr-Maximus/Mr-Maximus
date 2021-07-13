@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://imgur.com/Jkqtb5s" height="200"/>
+  [Imgur](https://i.imgur.com/Jkqtb5s.png)
 </p>
 <br>
 
@@ -11,7 +12,7 @@
 </p>
 
 <div align="center">
-## :robot: Hi everyone ! I am Madan Raj :vulcan_salute:
+ :robot: Hi everyone ! I am Madan Raj :vulcan_salute:
 </div>
 
 <i>Follow me around the web:</i><br>
