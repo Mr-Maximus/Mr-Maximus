@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/Jkqtb5s" height="200"/>
-  [Imgur](https://i.imgur.com/Jkqtb5s.png)
+  <a href="https://imgur.com/Jkqtb5s"><img src="https://i.imgur.com/Jkqtb5s.png" title="source: imgur.com" /></a>
 </p>
 <br>
 
