@@ -47,7 +47,7 @@
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Maximus#0348 </a>
    <pre>
-   <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"></a>     <a href="https://www.linkedin.com/in/madan-raj-a5801516b/" target="_blank"><img src="https://img.icons8.com/clouds/33/000000/linkedin.png"></a>    <a href="https://github.com/Mr-Maximus" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png"></a>     <a href=" https://dev.to/mrmaximus" target="_blank"><img src="https://img.icons8.com/color/48/000000/devpost.png"></a>      <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbFbLNbQBlwFmFxlTLxptlSZSWStDLrjrHkpWKQKNdrQWrLdpMQRrHHTVJQSrQmQQrkpMP" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/gmail.png"></a></pre>
+   <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"></a>     <a href="https://www.linkedin.com/in/madan-raj-a5801516b/" target="_blank"><img src="https://img.icons8.com/clouds/33/000000/linkedin.png"></a>    <a href="https://github.com/Mr-Maximus" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png"></a>     <a href=" https://dev.to/mrmaximus" target="_blank"><img src="https://img.icons8.com/color/48/000000/devpost.png"></a>      <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbFbLNbQBlwFmFxlTLxptlSZSWStDLrjrHkpWKQKNdrQWrLdpMQRrHHTVJQSrQmQQrkpMP" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a></pre>
       
       
   
