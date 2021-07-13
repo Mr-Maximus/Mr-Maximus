@@ -51,7 +51,7 @@
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Maximus#0348 </a>
    <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/color/33/000000/twitter-circled--v2.png"></a>
-   <a href="https://twitter.com/Maximus_eth" target="_blank"><img src="https://img.icons8.com/color/33/000000/twitter-circled--v2.png"></a>
+   <a href="https://www.linkedin.com/in/madan-raj-a5801516b/" target="_blank"><img src="https://img.icons8.com/clouds/33/000000/linkedin.png"></a>
 
 
 
