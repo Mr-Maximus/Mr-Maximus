@@ -17,6 +17,7 @@
 
 <p align="center">
 ## I'm a Computer Science and Engineering Student  
+  Currently an Intern @Mercedes-Benz 
 
 - 👨‍💻 I’m currently working on technologies like Blochchain,Machine Learning,etc.
 - 📚 I’m good at python,C,sql,Ml algos,etc😅
