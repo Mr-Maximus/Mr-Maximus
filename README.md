@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Kannada-brightgreen" />
