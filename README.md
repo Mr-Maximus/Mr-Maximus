@@ -25,5 +25,5 @@
 
 
 - 📫 How to reach me: 
-   <p>Gmail: mrajmys321@gmail.com</p>
+   <p>Gmail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvrbmFdbdrzmvRjVpRQgDsDkqFJssskSKwtWGdQdbdlqrjZWqwVttQZCFwQkLnxghdWqNB">mrajmys321@gmail.com</a></p>
    <p>website: https://madan-raj.com </p>
